@@ -1,2 +1,2 @@
 This project is currently in development state.
-Tanish, Siddhanth & Vansh is on this project.
+Tanish, Siddhanth & Vansh are on this project.
